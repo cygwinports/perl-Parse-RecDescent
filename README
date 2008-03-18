@@ -4,13 +4,10 @@ Parse::RecDescent incrementally generates top-down recursive-descent
 text parsers from simple yacc-like grammar specifications.
 
 Runtime requirements:
-  perl-5.8.8-4
-  perl-version-0.73-1
+  perl-5.10.0-3
 
 Build requirements:
-  cygport-0.3.5-1
-  perl-5.8.8-4
-  perl-Module-Build-0.2808-1
+  cygport-0.3.9-1
 
 Canonical homepage:
   http://search.cpan.org/~dconway/Parse-RecDescent/
@@ -45,6 +42,9 @@ Files included in the binary package:
 ------------------
 
 Port Notes:
+
+----- version 1.95.1-2 -----
+Rebuilt for perl-5.10.
 
 ----- version 1.95.1-1 -----
 Version bump; built with cygport.

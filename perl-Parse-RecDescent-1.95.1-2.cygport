@@ -1,0 +1,5 @@
+CPAN_AUTHOR=dconway
+inherit perl
+
+SRC_URI="mirror://cpan/authors/id/D/DC/DCONWAY/${ORIG_PN}-v${PV}.tar.gz"
+SRC_DIR="${ORIG_PN}-v${PV}"
