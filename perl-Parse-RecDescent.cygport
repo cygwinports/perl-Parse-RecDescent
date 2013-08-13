@@ -1,0 +1,10 @@
+CPAN_AUTHOR=jtbraun
+inherit perl
+
+NAME="perl-Parse-RecDescent"
+VERSION=1.967009
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl module for generating Recursive-Descent Parsers"
+DESCRIPTION="Parse-RecDescent incrementally generates top-down recursive-
+descent text parsers from simple yacc-like grammar specifications."

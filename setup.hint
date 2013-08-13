@@ -1,6 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl module for generating Recursive-Descent Parsers"
-ldesc: "Parse-RecDescent incrementally generates top-down 
-recursive-descent text parsers from simple yacc-like grammar 
-specifications."
